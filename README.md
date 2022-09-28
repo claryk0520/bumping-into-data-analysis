@@ -10,4 +10,4 @@
 - 온라인 예약 판매 시작했습니다 '0'
 - yes24 : http://www.yes24.com/Product/Goods/113476041
 - 교보문고 : http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791169210317&orderClick=LAG&Kc=
-- 한빛 : https://m.hanbit.co.kr/store/books/book_view.html?p_code=B7520909011
+- 한빛 : https://www.hanbit.co.kr/store/books/look.php?p_code=B7520909011
